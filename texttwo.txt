@@ -6,4 +6,5 @@ git
 5.file upload cmd-->git add filename
 6.commit--> git commit -m "filename file added"
 7.git.push origin main
-8.delete -->
+8.delete --> same mathod
+9.new file import from git--> git pull 
