@@ -4,3 +4,6 @@ git
 3.devlopthe project
 4.git status track the untracked file find
 5.file upload cmd-->git add filename
+6.commit--> git commit -m "filename file added"
+7.git.push origin main
+8.delete -->
