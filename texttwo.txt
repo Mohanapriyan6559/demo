@@ -1,0 +1,6 @@
+git
+1.create repstrie
+2.git clone
+3.devlopthe project
+4.git status track the untracked file find
+5.file upload cmd-->git add filename
